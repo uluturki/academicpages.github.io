@@ -2,7 +2,6 @@
 permalink: /industry/
 title: "Industry Experience"
 author_profile: true
-redirect_from: 
 ---
 
 # Experience
