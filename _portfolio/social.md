@@ -1,8 +1,13 @@
 ---
-title: "Refugee Integration in Turkey: A Study of Mobile Phone Data for D4R Challenge"
-excerpt: "Submitted to Data for Refugees (D4R) Challenge<br/>"
+title: "Social Bots"
+excerpt: "Study of social bots and implications of their existence.<br/>"
 collection: portfolio 
 ---
-<img src='/images/mobility_istanbul.png'> <img src='/images/mobility_istanbul_nref.png'>
 
-This study is our submission for the Data for Refugees (D4R) challenge where I have presented our results. In order to study possible segregation in the use modes of public spaces, I have constructed mobility networks based on a variable high-order network topology using an unprocessed 1.95GB Call Detail Record (CDR) dataset from 50k users. Study of locations on these networks revealed distinct differences of importance for these locations in the respective mobility networks. Our report can be found #LINKTOREPORT#, and a summary of findings from the challenge can be found #LINKTOCHALLENGEPAPER#. 
+I am working on this project with Dr. Onur Varol, studying social bots, their detection, and implications of their existence. We have studied deception strategies for online discussions drawing parallels from history #LINKTOPAPER#, and the relationship between social bots and journalists on twitter #LINKTOPAPER#. We are currently conducting a validation study on the publicly available social bot detection tools.
+
+<img src='/images/content-annotator_user_survey_example.png'>
+<img src='/images/content-annotator_tweet_survey_example.png'>
+
+We are also developing content-annotator, an open-sourced tool to simplify data annotation and collection from social media sites. We are taking great care to avoid isolating the annotation task from the regular use of the site, which allows users to collect and annotate data while experiencing the site normally. This also makes studying the user experience on the platform itself possible. One our main goals is to make this tool usable for researchers lacking technical know-how.
+
