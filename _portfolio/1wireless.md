@@ -8,4 +8,4 @@ This project aims to implement a flexible aerial Radio Access Network (RAN) that
 
 <img src='/images/sim_example_3d_3d.png'>
 
-Noticing a lack of publicly available simulation tools that can be used for benchmarks, I also started developing gently, an open-sourced aerial wireless network simulator with a reinforcement learning environment written in Python. Main feature of gently is the inclusion of domain specific Wireless Networks details such as line-of-sight, channel models, interference, and traffic models. It is a work in progress and I hope to release v1.0 with my dissertation.
+Noticing a lack of publicly available simulation tools that can be used for benchmarks, I also started developing [gently](https://github.com/uluturki/gently), an open-sourced aerial wireless network simulator with a reinforcement learning environment written in Python. Main feature of gently is the inclusion of domain specific Wireless Networks details such as line-of-sight, channel models, interference, and traffic models. It is a work in progress and I hope to release v1.0 with my dissertation.
