@@ -9,10 +9,13 @@ main:
   # - title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Research Projects"
+  - title: "Research"
     url: /portfolio/
+
+  - title: "Software"
+    url: /software/
     
-  - title: "Industry Experience"
+  - title: "Industry"
     url: /industry/
   # - title: "Blog Posts"
   # url: /year-archive/
