@@ -14,7 +14,7 @@ l also have extensive experience with hardware product development, RF and digit
 Education
 ======
 * PhD Candidate in Electrical Engineering, University of South Florida, May 2020 (Expected)
-* MSEE in Electrical Engineering, University of South Flordia, 2017
+* MSEE in Electrical Engineering, University of South Florida, 2017
 * BSc in Electrical Engineering, Istanbul Technical University, 2012
 
 Interests
