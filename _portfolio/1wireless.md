@@ -1,8 +1,10 @@
 ---
 title: "Aerial Wirelesss Networks"
-excerpt: "Decentralized Trajectory Control for Aerial Networks. <img src='/images/awn_schematic.png'>"
+excerpt: "Decentralized Trajectory Control for Aerial Networks."
 collection: portfolio
 ---
+
+<img src='/images/awn_schematic.png'>
 
 This project aims to implement a flexible aerial Radio Access Network (RAN) that can be rapidly deployed in previously unknown environments. This places a strong emphasis on the trajectory control of these Aerial Access Points, however a dynamic operating environment and limited prior knowledge of user mobility and traffic models makes tight closed-loop control an impractical luxury. While reasonable prior models may exist for fixed infrastructure networks, aerial networks are often considered for short-term temporary deployments such as post-disaster recovery where expecting prior models is unreasonable and online estimation of these models during operation is necessary. I’m using Reinforcement Learning (RL) to address these challenges. My current focus is on decentralized learning and opportunistic cooperation of multiple RL agents. 
 
