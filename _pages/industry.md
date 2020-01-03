@@ -14,6 +14,6 @@ Skills
 * Mixed-Signal Circuit Design
 * Rapid Prototyping
 * Design for Manufacture
-* EMI and Regulatory Complience
+* EMI and Regulatory Compliance
 * IoT and RFID Systems
 * Low-Power Wearable Design
