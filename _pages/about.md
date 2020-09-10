@@ -19,7 +19,7 @@ Education
 
 Interests
 ======
-* Reinforcement Learning
 * Machine Learning
+* Reinforcement Learning
 * Computational Social Sciences
 * Network Science
