@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ismail Uluturk"
 title_separator          : "-"
 name                     : &name "Ismail Uluturk"
-description              : &description "PhD Canditate studying technological and social networks."
+description              : &description "PhD with a focus on engineering applications of Machine Learning."
 url                      : https://uluturki.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uluturki.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ismail Uluturk"
   avatar           : "bio_photo_3.jpg"
-  bio              : "PhD Candidate at University of South Florida"
+  bio              : "PhD with a focus on engineering applications of Machine Learning."
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WmKu3G0AAAAJ"
-  email            : "uluturki@mail.usf.edu"
+  email            : "uluturki@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

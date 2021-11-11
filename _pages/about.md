@@ -7,9 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a recent PhD from University of South Florida, studying machine learning applications for technological and social networks. I am particularly interested in decentralized multi-agent cooperation and decision making. My current projects include collaborative trajectory control for a novel aerial Radio Access Network utilizing Reinforcement Learning, and studying the implications of the existence of social bots.
+Hi! I am a PhD with a focus on applied Machine Learning and Data Science approaches for engineering problems, particularly on wireless and techno-social networks. I have a firm grasp of the entire stack from hardware and embedded software to web applications thanks to 9 years of industry research and development experience at 2 start-ups; both developing novel IoT solutions from ground-up that are currently deployed internationally. I especially enjoy multidisciplinary collaboration and interdisciplinary research.
 
-l also have 8 years of start-up industry research and development experience with a company developing healthcare RFID / IoT solutions where I joined as one of the first 10 employees, working on design and development of several products that are currently deployed in hospitals internationally throughout all stages of the product cycle.
+Summary of Qualifications
+======
+* 9 years of early-stage start-up R&D engineering experience over two organizations creating novel IoT solutions, both having international deployments.
+* Published 9 articles between journals, refereed conferences, and book chapters.
+* Ability to design and implement novel algorithms to address challenges under strict resource constraints, including embedded platforms. 
+* Experienced in collaborating with multidisciplinary teams and providing specialist support across the organization.
+* Received Florida High-Tech Corridor Student Research Award, strong experience in academia-industry partnership. 
+* Experienced in regulatory compliance and pre-compliance processes.
+* Designed and shipped 6 volume-manufactured embedded IoT devices end-to-end from concept to production; including wearables, sensors, and gateways.
+
 
 Education
 ======
@@ -21,5 +30,5 @@ Interests
 ======
 * Machine Learning
 * Reinforcement Learning
-* Computational Social Sciences
 * Network Science
+* Computational Social Sciences
